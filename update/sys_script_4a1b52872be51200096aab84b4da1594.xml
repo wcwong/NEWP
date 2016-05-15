@@ -39,7 +39,6 @@
         <role_conditions/>
         <script><![CDATA[function onBefore(current, previous) {
    //This function will be automatically called when this rule is processed.
-   
 }]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
@@ -47,7 +46,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>4a1b52872be51200096aab84b4da1594</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Set Funding Requested</sys_name>
         <sys_overrides/>
         <sys_package display_value="NEWP" source="x_camu_newp2">93a2d7c2ccc00200cb69f3b00c3409d2</sys_package>
@@ -55,8 +54,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NEWP">93a2d7c2ccc00200cb69f3b00c3409d2</sys_scope>
         <sys_update_name>sys_script_4a1b52872be51200096aab84b4da1594</sys_update_name>
-        <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
-        <sys_updated_on>2016-02-18 16:46:43</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-15 16:17:00</sys_updated_on>
         <template>u_req_funding=true^EQ</template>
         <when>before</when>
     </sys_script>
