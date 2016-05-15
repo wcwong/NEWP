@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Do all the form manipulation for the CIO Team stuff</description>
+        <field>u_requester</field>
+        <global>true</global>
+        <messages/>
+        <name>CIO Team Field manipulations</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	var sectionName = 'ciot_review';
+	var displayTabAction = false;
+	var feedbackField = 'cio_team_feedback';
+	
+	if (g_user.hasRole('x_camu_newp2.ciot')) {
+		displayTabAction = true;
+		var currentLabel = g_form.getLabelOf(feedbackField);
+		g_form.setLabelOf(feedbackField, currentLabel + ' (PUBLIC)');
+	} else {
+		displayTabAction = false;
+		if (g_form.getValue(feedbackField).length > 0) {
+			g_form.setDisplay(feedbackField, true);
+		} else {
+			g_form.setDisplay(feedbackField, false);
+		}
+		
+		//approved, rejected, deferred only settable by CIO Team
+		var currentOption = g_form.getValue('state');
+		// but don't remove it if it is already set.
+		if (currentOption != '-100') {
+			g_form.removeOption('state', '-100');  // approved
+		}
+		if (currentOption != '-110') {
+			g_form.removeOption('state', '-110');  // rejected
+		}
+		if (currentOption != '-115') {
+			g_form.removeOption('state', '-115');  // deferred
+		}
+	}
+	
+	// Show or hide the tab on the default view
+	try {
+		g_form.setSectionDisplay(sectionName, displayTabAction);
+	} catch (e) {
+		jslog('Invalid form section: ' + sectionName + ': ' + e.message);
+	}
+	
+	// on the CIO Team review view, make read-only
+	// a bunch of fields to prevent editing and maybe make
+	// reading easier
+	if (g_form.getParameter('view') == 'ciot_review') {
+		var fields = g_form.getEditableFields();
+		for (var x = 0; x < fields.length; x++) {
+			jslog('settting ' + fields[x] + ' to readonly');
+			g_form.setReadOnly(fields[x], true);
+		}
+		//under Fujip4, currency fields aren't considered editable.
+		g_form.setReadonly('u_req_funding_acquisition', true);
+		g_form.setReadonly('u_ciot_comments', false); // the writeable field
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+        <sys_created_on>2015-05-17 14:41:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>2f2c1b46ccc00200cb69f3b00c3409c1</sys_id>
+        <sys_mod_count>34</sys_mod_count>
+        <sys_name>CIO Team Field manipulations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NEWP" source="x_camu_newp2">93a2d7c2ccc00200cb69f3b00c3409d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NEWP">93a2d7c2ccc00200cb69f3b00c3409d2</sys_scope>
+        <sys_update_name>sys_script_client_2f2c1b46ccc00200cb69f3b00c3409c1</sys_update_name>
+        <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+        <sys_updated_on>2015-08-06 11:21:16</sys_updated_on>
+        <table>x_camu_newp2_projects</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

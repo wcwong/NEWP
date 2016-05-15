@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="8064d7c2ccc00200cb69f3b00c3409e2" sys_domain="global" table="x_camu_newp2_projects" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>5885e7d72be91200096aab84b4da1596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>9885e7d72be91200096aab84b4da1596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>d885e7d72be91200096aab84b4da1596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>1c85e7d72be91200096aab84b4da1596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>5c85e7d72be91200096aab84b4da1596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>5</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>9c85e7d72be91200096aab84b4da1596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_business_service</element>
+            <position>6</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>dc85e7d72be91200096aab84b4da1596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>1085e7d72be91200096aab84b4da1597</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>8</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>d085abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>planned_start_date</element>
+            <position>9</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>1485abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>5485abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_project_sponsor</element>
+            <position>11</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>9485abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>planned_end_date</element>
+            <position>12</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>d485abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>1885abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_purpose</element>
+            <position>14</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>5885abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>15</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>9885abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risks_mitigation_stategies</element>
+            <position>16</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>d885abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cio_team_feedback</element>
+            <position>17</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>1c85abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>18</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>5c85abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscal_year</element>
+            <position>19</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>9c85abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>20</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>dc85abd72be91200096aab84b4da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stripe_y_sheet</element>
+            <position>21</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>1085abd72be91200096aab84b4da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>5085abd72be91200096aab84b4da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>23</position>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2016-02-18 22:17:32</sys_created_on>
+            <sys_id>9085abd72be91200096aab84b4da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-18 22:17:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_camu_newp2_projects</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-05-17 14:04:58</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>8064d7c2ccc00200cb69f3b00c3409e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>planned_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NEWP" source="x_camu_newp2">93a2d7c2ccc00200cb69f3b00c3409d2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NEWP">93a2d7c2ccc00200cb69f3b00c3409d2</sys_scope>
+            <sys_update_name>sys_ui_section_8064d7c2ccc00200cb69f3b00c3409e2</sys_update_name>
+            <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2015-05-17 14:04:58</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

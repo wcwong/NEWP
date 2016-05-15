@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="hasLabels=true" audit="true" extends="planned_task" label="Newp Projects" max_length="40" name="x_camu_newp2_projects" sizeclass="422" text_index="true" type="collection">
+        <element label="CIO Team Feedback" max_length="1000" name="cio_team_feedback" type="string"/>
+        <element choice="3" default="17" label="Fiscal Year" mandatory="true" max_length="40" name="fiscal_year" type="integer">
+            <choice>
+                <element label="FY16" sequence="16" value="16"/>
+                <element label="FY17" sequence="17" value="17"/>
+                <element label="FY18" sequence="18" value="18"/>
+            </choice>
+        </element>
+        <element label="Planned End Date" max_length="40" name="planned_end_date" type="glide_date"/>
+        <element label="Planned Start Date" max_length="40" name="planned_start_date" type="glide_date"/>
+        <element hint="Provide a high-level overview of the business need for your project." label="Project Purpose" max_length="4000" name="project_purpose" type="string"/>
+        <element hint="Describe the things that might restrict or limit the project; i.e. resources, budget, technologies, etc." label="Risks/Mitigation Strategies" max_length="4000" name="risks_mitigation_stategies" type="string"/>
+        <element label="Stripe-y Sheet" max_length="40" name="stripe_y_sheet" type="boolean"/>
+        <element choice="3" default="discuss" label="Tentative Status" max_length="40" name="tentative_status" type="string">
+            <choice>
+                <element label="Approved - Tentative" sequence="0" value="approved"/>
+                <element label="Deferred - Tentative" sequence="1" value="deferred"/>
+                <element label="Rejected - Tentative" sequence="2" value="rejected"/>
+                <element label="More Discussion" sequence="3" value="discuss"/>
+            </choice>
+        </element>
+        <element label="CIO Team Comments" max_length="4000" name="u_ciot_comments" type="journal"/>
+        <element label="Funding Source" max_length="100" name="u_funding_source" type="string"/>
+        <element attributes="omit_sys_original=true" label="Next Spend Amount" max_length="15" name="u_next_spend_amount" type="currency"/>
+        <element label="Next Spend Date" max_length="40" name="u_next_spend_date" type="glide_date"/>
+        <element hint="Senior manager sponsoring the project" label="Project Sponsor" mandatory="true" max_length="32" name="u_project_sponsor" reference="sys_user" reference_qual="javascript:getGroupMembers('NEWP -- sponsors')" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Funding Requested" max_length="40" name="u_req_funding" type="boolean"/>
+        <element attributes="omit_sys_original=true" label="Requested Project Funds" max_length="15" name="u_req_funding_acquisition" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Requested Annual Costs" max_length="15" name="u_req_funding_annual" type="currency"/>
+        <element hint="Include which quarter you expect to spend the money in your acquisition costs. Add any anticipated future costs after the current fiscal year, including approximate amounts,  which fiscal year that money will be spent and how often the charges occur." label="Requested Funding Notes" max_length="4000" name="u_req_funding_notes" type="string"/>
+    </element>
+</database>

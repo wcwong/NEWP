@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>planned_end_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+        <sys_created_on>2016-02-23 18:56:06</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8247accd2bbd5200096aab84b4da150a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>planned_end_date</sys_name>
+        <sys_package display_value="NEWP" source="x_camu_newp2">93a2d7c2ccc00200cb69f3b00c3409d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NEWP">93a2d7c2ccc00200cb69f3b00c3409d2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8247accd2bbd5200096aab84b4da150a</sys_update_name>
+        <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+        <sys_updated_on>2016-02-23 18:56:06</sys_updated_on>
+        <table>x_camu_newp2_projects</table>
+        <ui_policy display_value="Mandatory NEWP fields">2ac7f17a2bdcd200096aab84b4da154f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

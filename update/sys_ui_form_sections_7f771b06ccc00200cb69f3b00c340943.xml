@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="7f771b06ccc00200cb69f3b00c340943" sys_domain="global" table="x_camu_newp2_projects" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-05-17 14:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>73771b06ccc00200cb69f3b00c340944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_camu_newp2_projects" name="x_camu_newp2_projects" sys_domain="global" view="Default view">7f771b06ccc00200cb69f3b00c340943</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_camu_newp2_projects" sys_domain="global" view="Default view">8064d7c2ccc00200cb69f3b00c3409e2</sys_ui_section>
+            <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2015-05-17 14:18:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-05-17 14:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b3771b06ccc00200cb69f3b00c340944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_camu_newp2_projects" name="x_camu_newp2_projects" sys_domain="global" view="Default view">7f771b06ccc00200cb69f3b00c340943</sys_ui_form>
+            <sys_ui_section caption="Submission" display_value="Submission" name="x_camu_newp2_projects" sys_domain="global" view="Default view">73771b06ccc00200cb69f3b00c340943</sys_ui_section>
+            <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2015-05-17 14:18:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-05-17 14:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>08871b06ccc00200cb69f3b00c340944</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_camu_newp2_projects" name="x_camu_newp2_projects" sys_domain="global" view="Default view">7f771b06ccc00200cb69f3b00c340943</sys_ui_form>
+            <sys_ui_section caption="Financials" display_value="Financials" name="x_camu_newp2_projects" sys_domain="global" view="Default view">bb771b06ccc00200cb69f3b00c340943</sys_ui_section>
+            <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2015-05-19 15:41:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-05-19 15:43:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>220e31ba49400200cb698bd0fb6e2fee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_camu_newp2_projects" name="x_camu_newp2_projects" sys_domain="global" view="Default view">7f771b06ccc00200cb69f3b00c340943</sys_ui_form>
+            <sys_ui_section caption="CIOT Review" display_value="CIOT Review" name="x_camu_newp2_projects" sys_domain="global" view="Default view">6e0e31ba49400200cb698bd0fb6e2fed</sys_ui_section>
+            <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2015-05-19 15:43:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-06-23 15:42:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4cadcec26ffc02008449060d5d3ee437</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_camu_newp2_projects" name="x_camu_newp2_projects" sys_domain="global" view="Default view">7f771b06ccc00200cb69f3b00c340943</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_camu_newp2_projects" sys_domain="global" view="Default view">7b9dcec26ffc02008449060d5d3ee437</sys_ui_section>
+            <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2015-06-23 15:42:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_camu_newp2_projects</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-05-17 14:18:36</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>7f771b06ccc00200cb69f3b00c340943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_camu_newp2_projects</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NEWP" source="x_camu_newp2">93a2d7c2ccc00200cb69f3b00c3409d2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NEWP">93a2d7c2ccc00200cb69f3b00c3409d2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7f771b06ccc00200cb69f3b00c340943</sys_update_name>
+            <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2015-05-17 14:18:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

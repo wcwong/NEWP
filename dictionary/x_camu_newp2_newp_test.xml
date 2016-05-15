@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="newp_test" max_length="40" name="x_camu_newp2_newp_test" type="collection">
+        <element attributes="import_attribute_name=New Project Owner" label="New Project Owner " max_length="40" name="u_new_project_owner" type="string"/>
+        <element attributes="import_attribute_name=New Sponsor" label="New Sponsor" max_length="40" name="u_new_sponsor" type="string"/>
+        <element attributes="import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+    </element>
+</database>

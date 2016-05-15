@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="risks_mitigation_stategies" label="Risks/Mitigation Strategies" language="en" table="x_camu_newp2_projects">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>risks_mitigation_stategies</element>
+            <help/>
+            <hint>Describe the things that might restrict or limit the project; i.e. resources, budget, technologies, etc.</hint>
+            <label>Risks/Mitigation Strategies</label>
+            <language>en</language>
+            <name>x_camu_newp2_projects</name>
+            <plural>Risks/Mitigation Strategies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>grm@andrew.cmu.edu</sys_created_by>
+            <sys_created_on>2015-12-16 21:32:57</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>1b85b9fa2bdcd200096aab84b4da1505</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Risks/Mitigation Strategies</sys_name>
+            <sys_package display_value="NEWP" source="x_camu_newp2">93a2d7c2ccc00200cb69f3b00c3409d2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NEWP">93a2d7c2ccc00200cb69f3b00c3409d2</sys_scope>
+            <sys_update_name>sys_documentation_x_camu_newp2_projects_risks_mitigation_stategies_en</sys_update_name>
+            <sys_updated_by>grm@andrew.cmu.edu</sys_updated_by>
+            <sys_updated_on>2016-02-17 21:47:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

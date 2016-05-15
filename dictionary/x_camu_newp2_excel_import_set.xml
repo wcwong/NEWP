@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="excel import set" max_length="40" name="x_camu_newp2_excel_import_set" type="collection">
+        <element attributes="import_attribute_name=Business Service (Category Level)" label="Business Service (Category Level)" max_length="40" name="u_business_ser_ategory_level_" type="string"/>
+        <element attributes="import_attribute_name=Deliverables" label="Deliverables" max_length="1069" name="u_deliverables" type="string"/>
+        <element attributes="import_attribute_name=ESMT Sponsor&#10;[SrDir/Dir/AD]" label="ESMT Sponsor&#10;[SrDir/Dir/AD]" max_length="40" name="u_esmt_sponsor__srdir_dir_ad_" type="string"/>
+        <element attributes="import_attribute_name=Funding Notes" label="Funding Notes" max_length="477" name="u_funding_notes" type="string"/>
+        <element attributes="import_attribute_name=H" label="H" max_length="154" name="u_h" type="string"/>
+        <element attributes="import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="import_attribute_name=Project Name" label="Project Name" max_length="85" name="u_project_name" type="string"/>
+        <element attributes="import_attribute_name=Project Owner" label="Project Owner" max_length="40" name="u_project_owner" type="string"/>
+        <element attributes="import_attribute_name=Requested Acquisition Cost" label="Requested Acquisition Cost" max_length="61" name="u_requested_acquisition_cost" type="string"/>
+    </element>
+</database>
